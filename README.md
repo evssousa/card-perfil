@@ -1,4 +1,4 @@
-![image](https://github.com/evssousa/card-perfil/assets/67715053/e340ea2a-2be8-4a94-beef-c0cf11ea0217)# React + Vite
+# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
